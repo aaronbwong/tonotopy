@@ -4,6 +4,8 @@ I attempt to link them to primary literature as documentation.
 This is obviously not an exhaustive list and will be gradually updated as more maps came into my radar. 
 
 ## References
+Ehret, G. (1975). Masked auditory thresholds, critical ratios, and scales of the basilar membrane of the housemouse (Mus musculus). J. Comp. Physiol., 103(3), 329–341. https://doi.org/10.1007/BF00612025
+
 Greenwood, D. D. (1990). A cochlear frequency‐position function for several species—29 years later. The Journal of the Acoustical Society of America, 87(6), 2592–2605. https://doi.org/10.1121/1.399052
 
 Liberman, M. C. (1982). The cochlear frequency map for the cat: labeling auditory-nerve fibers of known characteristic frequency. The Journal of the Acoustical Society of America, 72, 1441–1449. https://doi.org/10.1121/1.388677
