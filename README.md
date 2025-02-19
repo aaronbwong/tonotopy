@@ -12,4 +12,6 @@ Liberman, M. C. (1982). The cochlear frequency map for the cat: labeling auditor
 
 Müller, M., von Hünerbein, K., Hoidis, S. and Smolders, J. W. T. (2005). A physiological place-frequency map of the cochlea in the CBA/J mouse. Hearing Research, 202, 63–73. https://doi.org/10.1016/j.heares.2004.08.011
 
+Muniak, M. A., Rivas, A., Montey, K. L., May, B. J., Francis, H. W. and Ryugo, D. K. (2013). 3D model of frequency representation in the cochlear nucleus of the CBA/J mouse. Journal of Comparative Neurology, 521(7), 1510–1532. https://doi.org/10.1002/cne.23238
+
 Taberner, A. M. and Liberman, M. C. (2005). Response properties of single auditory nerve fibers in the mouse. Journal of Neurophysiology, 93, 557–569. https://doi.org/10.1152/jn.00574.2004
